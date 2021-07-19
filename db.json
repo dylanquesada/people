@@ -1,4 +1,5 @@
-[
+{
+  "people": [
   {
     "id": 0,
     "name": "Michael Jordan",
@@ -20,3 +21,4 @@
     "age": 34
   }
 ]
+}
